@@ -1,7 +1,7 @@
 package day0517;
 
 public class Data {
-	
+	// test
 	private int no;
 	private static int count;
 	
