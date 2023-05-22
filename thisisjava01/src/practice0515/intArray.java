@@ -1,4 +1,4 @@
-package practice01.movie_app01;
+package practice0515;
 
 public class intArray {
  public static void main(String[] args) {

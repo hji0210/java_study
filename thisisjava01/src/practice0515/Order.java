@@ -1,4 +1,4 @@
-package practice01.movie_app01;
+package practice0515;
 
 
 import java.lang.reflect.Array;
@@ -11,13 +11,13 @@ public class Order {
 	    this.orderMenu=orderMenu;
 	    this.price=price;	  
 	    
-	    public void printInfo();
-	    System.out.println("===== [영수증] ====");
-	    for(int i=0; i<3; i++) {
-	    	
+//	    public void printInfo();
+//	    System.out.println("===== [영수증] ====");
+//	    for(int i=0; i<3; i++) {
+//	    	
 	    }
 	
-	}
+//	}
 
 	private void printInfo() {
 		// TODO Auto-generated method stub
