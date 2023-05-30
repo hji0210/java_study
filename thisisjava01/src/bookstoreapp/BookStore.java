@@ -1,5 +1,7 @@
 package bookstoreapp;
 
+import collectionFrameWorkpractice09.Book;
+
 public class BookStore {
 	
 	 private Book[] bookArray;
